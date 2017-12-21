@@ -28,7 +28,7 @@ Click on the image to see it in action.
 
 <p align="center">
   <a href="https://youtu.be/N8isi19D9fU">		
-  	<img src="https://avatars0.githubusercontent.com/u/1316274?v=3&s=200">
+  	<img src="https://github.com/translationexchange/tml-objc-samples-tmlkit/blob/master/ios-tmlkit.png?raw=true">
    </a> 	  
 </p>
 
