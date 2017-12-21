@@ -21,6 +21,19 @@ Now you can open the workspace and run the application:
 	$ open "LinkedInDemo.xcworkspace"
 
 
+
+# Video
+
+Click on the image to see it in action.
+
+<p align="center">
+  <a href="https://youtu.be/N8isi19D9fU">		
+  	<img src="https://avatars0.githubusercontent.com/u/1316274?v=3&s=200">
+   </a> 	  
+</p>
+
+
+
 Links
 ==================
 
